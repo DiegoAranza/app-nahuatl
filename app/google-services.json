@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205526356852",
+    "project_id": "to-tlali-to-tlatoua",
+    "storage_bucket": "to-tlali-to-tlatoua.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205526356852:android:8b1b7fb5a138aa908dd221",
+        "android_client_info": {
+          "package_name": "com.example.tabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMKH9ISL0ZpOzxsWF53CsSizii2SdpqUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
